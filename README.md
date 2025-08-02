@@ -8,5 +8,3 @@ I'm a **3rd year Computer Engineering student** passionate about **Data Analytic
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/athira-saji/)
-
-![GitHub Commits](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=false&hide=stars,prs,issues,contribs&count_private=true&custom_title=Total%20Commits)
