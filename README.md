@@ -6,7 +6,7 @@ I'm a **Computer Engineering student** passionate about **Data Analytics** and *
 
 - Building projects  
 - Practicing DSA  
-- Learning JavaScript & SQL
+- Exploring web frameworks
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/athira-saji/)
