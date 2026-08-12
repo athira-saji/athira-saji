@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Athira Saji
 
-I'm a **Computer Engineering student** passionate about **Data Analytics** and **Web Development**.
+I enjoy building web applications and exploring data.
 
 ## 🚀 What I’m Working On
 
