@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Athira Saji
 
-I enjoy building web applications and exploring data.
+I'm a final-year Computer Engineering student interested in software development, backend engineering, and AI. I enjoy building web applications and exploring data.
 
 ## 🚀 What I’m Working On
 
